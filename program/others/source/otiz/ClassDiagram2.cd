@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOTiZ.Calculator" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAgCEEADEIAACEAAEACACAAABAAAAAAA=</HashCode>
+      <FileName>Calculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.Ceha" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAACAAhAAAEECAAAACAAkAAAAAAgiAA4ABAgA=</HashCode>
+      <FileName>Ceha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.KoeffInput" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAALBEBCIAAAAAgAKAAAACADgAAQAAAAAgAoBAAAA=</HashCode>
+      <FileName>KoeffInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.MainForm" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YwChFIHCcPMFZU2GO+mzjwcmxNgBK7VheNlRhEjLZIs=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.Operacyi" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAACAAhAAAEECACAACAAkAAAAAAgiAA4ABAAA=</HashCode>
+      <FileName>Operacyi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.Production" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAYAAAgAACAAgBAABMCAAAUCAAkCAAgAAgiAA4BBAAA=</HashCode>
+      <FileName>Production.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.Report">
+    <Position X="5.75" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="OOTiZ.Report.Operation">
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>Report.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="OOTiZ.Report.Detail">
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Struct Name="OOTiZ.Report.Detail.Uzel" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Report.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Struct>
+          <Class Name="OOTiZ.Report.Detail.Ceh" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Report.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>Report.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>LIAAKAnQADFUhVAkANiAUQgGQEiAIBwIAogEQ0gCwAM=</HashCode>
+      <FileName>Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSet" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQBAICQAxUiAAJiDQEASABAAxgCURhEAgBBAQEABFA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEgCQAAAABBAEAABEAAAATEAAAACAAABAAAADIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAIAAAEAADAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSetTableAdapters.Виды_операцийTableAdapter" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSetTableAdapters.КоэффициентыTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSetTableAdapters.ОперацииTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSetTableAdapters.ПродукцияTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSetTableAdapters.ПроцентыTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSetTableAdapters.РазрядыTableAdapter" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSetTableAdapters.УзлыTableAdapter" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSetTableAdapters.ЦехаTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOTiZ.vypuskDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAACQAAABARAEDAAQAsAkgAQGCgQAAAAQBAAAAhBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,471 @@
+D:\My Works\ТП\otiz\otiz\bin\Debug\OOTiZ.exe.config
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\My Works\ТП\otiz\otiz\bin\Debug\vypusk.mdb
+D:\My Works\ТП\otiz\otiz\bin\Debug\OOTiZ.exe
+D:\My Works\ТП\otiz\otiz\bin\Debug\OOTiZ.pdb
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.exe
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\My Works\КП БДиСУБД\otiz\otiz\bin\Debug\OOTiZ.exe.config
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.exe
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\My Works\КП БДиСУБД\otiz\otiz\bin\Debug\vypusk.mdb
+D:\My Works\КП БДиСУБД\otiz\otiz\bin\Debug\OOTiZ.exe
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\My Works\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+D:\My Works\КП БДиСУБД\otiz\otiz\bin\Debug\OOTiZ.pdb
+D:\My Works\ТП на сдачу\otiz\otiz\bin\Debug\OOTiZ.exe.config
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.exe
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+D:\My Works\ТП на сдачу\otiz\otiz\bin\Debug\vypusk.mdb
+D:\My Works\ТП на сдачу\otiz\otiz\bin\Debug\OOTiZ.exe
+D:\My Works\ТП на сдачу\otiz\otiz\bin\Debug\OOTiZ.pdb
+D:\My Works\ТП на сдачу\otiz\otiz\obj\x86\Debug\OOTiZ.csprojResolveAssemblyReference.cache
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\bin\Debug\OOTiZ.exe.config
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.pdb
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\bin\Debug\vypusk.mdb
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\bin\Debug\OOTiZ.exe
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\bin\Debug\OOTiZ.pdb
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+C:\Users\harhal19\Documents\КП БДиСУБД\otiz\otiz\obj\x86\Debug\OOTiZ.csprojResolveAssemblyReference.cache
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+C:\Users\Anton\Desktop\Хорхалёв ООТиЗ_06_07\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojResolveAssemblyReference.cache
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Users\asup\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Users\User\Desktop\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojResolveAssemblyReference.cache
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+C:\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojResolveAssemblyReference.cache
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.Cache
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Users\owner\Desktop\Практика\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Users\owner\Desktop\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\УЧЕБА\от лены\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\прога старая\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\прога старая — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\прога редакт2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия (3)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия (6)\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия (6) — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\прога редакт2 — копия (6) — копия — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Users\Lenovo\Desktop\ред\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\PRODRAMMA\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\PRODRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\vypusk.mdb
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe.config
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.exe
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Debug\OOTiZ.pdb
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Report.resources
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Production.resources
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.exe
+D:\Книга\PROGRAMMA — копия\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Debug\OOTiZ.pdb
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\bin\Debug\vypusk.mdb
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\bin\Debug\OOTiZ.exe.config
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\bin\Debug\OOTiZ.exe
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\bin\Debug\OOTiZ.pdb
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.csprojAssemblyReference.cache
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.Brigadi.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.Calculator.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.MainForm.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.Report.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.KoeffInput.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.Operacyi.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.Production.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.Ceha.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.csproj.GenerateResource.cache
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.csproj.CoreCompileInputs.cache
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.exe
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Debug\OOTiZ.pdb

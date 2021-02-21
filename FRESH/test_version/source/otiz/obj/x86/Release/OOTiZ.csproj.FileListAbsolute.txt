@@ -1,0 +1,33 @@
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Release\vypusk.mdb
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Release\OOTiZ.exe.config
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Release\OOTiZ.exe
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\bin\Release\OOTiZ.pdb
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.Calculator.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.MainForm.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.Report.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.KoeffInput.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.Operacyi.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.Production.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.Properties.Resources.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.Ceha.resources
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.csproj.GenerateResource.Cache
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.exe
+D:\Work2\Хорхалёв ООТиЗ_27_11_2015_Лена\Новая папка (2)\Исходник\otiz\obj\x86\Release\OOTiZ.pdb
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.csprojAssemblyReference.cache
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.Brigadi.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.Calculator.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.MainForm.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.Report.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.KoeffInput.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.Operacyi.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.Production.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.Properties.Resources.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.Ceha.resources
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.csproj.GenerateResource.cache
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.csproj.CoreCompileInputs.cache
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.exe
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\obj\x86\Release\OOTiZ.pdb
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\bin\Release\vypusk.mdb
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\bin\Release\OOTiZ.exe.config
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\bin\Release\OOTiZ.exe
+C:\Users\LeftMe\Desktop\client\program\new folder\source\otiz\bin\Release\OOTiZ.pdb

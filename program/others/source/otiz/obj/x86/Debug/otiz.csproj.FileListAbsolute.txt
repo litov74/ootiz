@@ -1,0 +1,17 @@
+D:\My Works\ТП\otiz\otiz\bin\Debug\otiz.exe
+D:\My Works\ТП\otiz\otiz\bin\Debug\otiz.pdb
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.Properties.Resources.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.csproj.GenerateResource.Cache
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.exe
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.pdb
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.MainForm.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.KoeffInput.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.Production.resources
+D:\My Works\ТП\otiz\otiz\bin\Debug\otiz.exe.config
+D:\My Works\ТП\otiz\otiz\bin\Debug\vypusk.mdb
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.Operacyi.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.Report.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.Ceha.resources
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\otiz.Calculator.resources
+D:\My Works\ТП\otiz\otiz\bin\Debug\OOTiZ.exe.config
+D:\My Works\ТП\otiz\otiz\obj\x86\Debug\OOTiZ.Properties.Resources.resources
